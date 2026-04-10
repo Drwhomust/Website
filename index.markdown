@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: default
 ---
 
 # Hello there!
@@ -23,4 +23,14 @@ some of them inclue:
 
 so yeah...
 
-Feel free to expolore the rest of my site
+# My stuff
+
+Here are links to some stuff:
+
+- [github](https://github.com/Drwhomust)
+- [twitch](https://www.twitch.tv/drwhomust)
+- BlueSky
+- tumblr
+- Sudomemo
+- Newgrounds
+- [SpaceHey](https://spacehey.com/drwhomust) (this is where i also have my blog on life and projects)
