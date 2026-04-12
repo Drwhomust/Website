@@ -11,3 +11,7 @@ it's cool
 ...
 
 very cool
+
+### credits
+
+[website theme](https://github.com/pages-themes/hacker)
