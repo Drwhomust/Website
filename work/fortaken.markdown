@@ -5,7 +5,19 @@
 layout: default
 ---
 
-> GAME NO LONGER IN DEVELOPMENT DUE TO ROBLOX NEW PUBLISHING STUFF!!
+# Please read me
+
+So just now (4/13/2026 2:01 PM PDT)
+
+Roblox made an update to the publishing for games
+
+We made a statement about it [here](https://bsky.app/profile/did:plc:y6fjmx3np3oyonjwbl2hjnz7/post/3mjfr3ltjyk2u)
+
+please read it
+
+{% include fortakenblueskyupdate.html %}
+
+**The content loaded is from Bluesky. You are subject to their TOS and private policy*
 
 # What is fortaken
 
