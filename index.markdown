@@ -36,6 +36,7 @@ Here are links to some stuff:
 - [SpaceHey](https://spacehey.com/drwhomust) (this is where i also have my blog on life and projects)
 - [ROBLOX](https://www.roblox.com/users/1026171790/profile)
 - [itch.io](https://drnightcrawler.itch.io/)
+- [art fight](https://artfight.net/~Drwhomust)
 
 # other stuff
 
@@ -45,5 +46,10 @@ You can check that out [here](./OCs.markdown)
 You can also check out some of my work i did.
 
 Some of my best work is [hazzy](./work/hazzy.markdown) and [fortaken](/work/fortaken.markdown)
+
+A lot of people ask me what's my art style when I draw. My style is a mixture of the 
+[2000s emo/scene art style](https://duckduckgo.com/?t=ffab&q=2000s%20emo%20scene%20art%20style&ia=images&iax=images)
+and the [pizza tower art](https://store.steampowered.com/app/2231450/Pizza_Tower/) style. You can find more Info about it
+[here](./art-style.markdown) where I go more in depth on how I do it
 
 and uhh yeah
