@@ -5,6 +5,8 @@
 layout: default
 ---
 
+{% include protest.html %}
+
 # Hello there!
 
 My name is Drwhomust
