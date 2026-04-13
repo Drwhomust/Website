@@ -13,4 +13,3 @@ anyways here are all the links to all of my OCs
 
 ## OC links
 
-- [Test](./OC/test)
