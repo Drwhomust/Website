@@ -15,13 +15,15 @@ I am a video game developer and a therian!
 
 I have many hobbies and interests
 
-some of them inclue:
+some of them include:
 
 - Cosplaying
 - Gaming (i mostly love retro games)
+- Making video games :D
 - Being a furry and a therian
 - Undertale and Deltarune (they peak games check them out)
 - Kaiju Paradise (It is so peak, even after everything that happended to it. the drama is gone and the game is still good)
+- and much more
 
 so yeah...
 
