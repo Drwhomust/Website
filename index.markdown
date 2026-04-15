@@ -39,6 +39,7 @@ Here are links to some stuff:
 - [ROBLOX](https://www.roblox.com/users/1026171790/profile)
 - [itch.io](https://drnightcrawler.itch.io/)
 - [art fight](https://artfight.net/~Drwhomust)
+- [youtube](https://www.youtube.com/channel/UCTglCj1GKZsqOFsH57PqQVw)
 
 # other stuff
 
