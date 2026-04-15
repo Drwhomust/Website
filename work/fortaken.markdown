@@ -15,8 +15,6 @@ We made a statement about it [here](https://bsky.app/profile/did:plc:y6fjmx3np3o
 
 please read it
 
-**The content loaded is from Bluesky. You are subject to their TOS and private policy*
-
 # What is fortaken
 
 Fortaken is a clone of another game called forsaken. This is made because me and my friends want to play forsaken but we can't due to the drama fromt the game's devs (you can learn more about that from This great video made by Jik and also this video by Gilly734 explaining why all the people are bad in the first place. another good video.) and we really don't want to support them so this is a clone. same charaters and almost the same gameplay. only thing is assets and music were remade due to copyright (i redid all the music and designs). All so we can play forsaken and not support the devs due to this big drama
