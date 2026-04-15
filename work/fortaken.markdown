@@ -15,8 +15,6 @@ We made a statement about it [here](https://bsky.app/profile/did:plc:y6fjmx3np3o
 
 please read it
 
-{% include fortakenblueskyupdate.html %}
-
 **The content loaded is from Bluesky. You are subject to their TOS and private policy*
 
 # What is fortaken
