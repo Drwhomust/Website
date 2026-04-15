@@ -30,12 +30,3 @@ Will you make your creatue live a happy life with all of it's friends. Or make i
 # Where to get the game
 
 You can get it either on [itch.io](https://drnightcrawler.itch.io/hazzy) (best way) or [GitHub](https://github.com/Drwhomust/hazzy.git).
-
-# Discord
-
-Hazzy has a discord server with a friendly commuinty! Feel free to join it!
-
-*note, the widget below is from discord so you are subject to discord's tos and private policy here, if you don't agree
-with it i recommend getting the UBlock Origin and the privacy badger plugin/addon for your internet browser*
-
-{% include hazzydiscord.html %}
