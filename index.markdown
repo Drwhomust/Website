@@ -13,7 +13,7 @@ My name is Drwhomust
 
 I am a video game developer and a therian!
 
-I have many hobbies and interests
+I have many hobbies and interests and part of many fandoms
 
 some of them include:
 
