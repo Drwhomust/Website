@@ -35,9 +35,7 @@ Here are links to some stuff:
 - [twitch](https://www.twitch.tv/drwhomust)
 - [BlueSky](https://bsky.app/profile/drwhomust.xyz)
 - [tumblr](https://drwhomust.tumblr.com/)
-- [Sudomemo](https://www.sudomemo.net/user/5EEF92608A70E04A@DSi/)
 - [Newgrounds](https://drwhomust.newgrounds.com/)
-- [SpaceHey](https://spacehey.com/drwhomust) (this is where i also have my blog on life and projects)
 - [ROBLOX](https://www.roblox.com/users/1026171790/profile)
 - [itch.io](https://drnightcrawler.itch.io/)
 - [art fight](https://artfight.net/~Drwhomust)
@@ -46,11 +44,9 @@ Here are links to some stuff:
 # other stuff
 
 I have a list of every OC i made and each OC has their own webpage based off their lore.
-You can check that out [here](./OCs.markdown)
+You can check that out [here](./OCs.markdown). (it's still a work in progress btw)
 
-You can also check out some of my work i did.
-
-Some of my best work is [hazzy](./work/hazzy.markdown) and [fortaken](/work/fortaken.markdown)
+i also created [hazzy](./work/hazzy.markdown) for anyone wourding
 
 A lot of people ask me what's my art style when I draw. My style is a mixture of the 
 [2000s emo/scene art style](https://duckduckgo.com/?t=ffab&q=2000s%20emo%20scene%20art%20style&ia=images&iax=images)
@@ -58,3 +54,5 @@ and the [pizza tower art](https://store.steampowered.com/app/2231450/Pizza_Tower
 [here](./art-style.markdown) where I go more in depth on how I do it
 
 and uhh yeah
+
+thanks for reading!
