@@ -32,6 +32,7 @@ so yeah...
 Here are links to some stuff:
 
 - [github](https://github.com/Drwhomust)
+- [codeberg](https://codeberg.org/Drwhomust)
 - [twitch](https://www.twitch.tv/drwhomust)
 - [BlueSky](https://bsky.app/profile/drwhomust.xyz)
 - [tumblr](https://drwhomust.tumblr.com/)
