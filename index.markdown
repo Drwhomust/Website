@@ -47,7 +47,7 @@ Here are links to some stuff:
 I have a list of every OC i made and each OC has their own webpage based off their lore.
 You can check that out [here](./OCs.markdown). (it's still a work in progress btw)
 
-i also created [hazzy](./work/hazzy.markdown) for anyone wourding
+i also created [hazzy](./work/hazzy.markdown) for anyone wondering.
 
 A lot of people ask me what's my art style when I draw. My style is a mixture of the 
 [2000s emo/scene art style](https://duckduckgo.com/?t=ffab&q=2000s%20emo%20scene%20art%20style&ia=images&iax=images)

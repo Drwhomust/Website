@@ -29,4 +29,4 @@ Will you make your creatue live a happy life with all of it's friends. Or make i
 
 # Where to get the game
 
-You can get it either on [itch.io](https://drnightcrawler.itch.io/hazzy) (best way) or [GitHub](https://github.com/Drwhomust/hazzy.git).
+You can get it either on [itch.io](https://drnightcrawler.itch.io/hazzy) (best way) or [Codeberg](https://codeberg.org/Drwhomust/hazzy/releases)

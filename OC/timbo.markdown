@@ -16,7 +16,7 @@ layout: default
 
 Their name is Timbo!
 
-Pronouns are `They/Them`
+Pronouns are `They/Them` and they are [non-binary](https://en.wikipedia.org/wiki/Non-binary)
 
 They are a [nightcrawler](https://kaijuparadiseofficial.miraheze.org/wiki/Nightcrawler)
 
@@ -26,6 +26,7 @@ Likes:
 - Will do anything to help other (both ray and human)
 - Is more scared of you than your scared of them
 - Loves to tinker with anything you hand it
+- loves kit kats and bloxy colas (they will befriend you the moment you hand them one)
 
 Hates:
 
