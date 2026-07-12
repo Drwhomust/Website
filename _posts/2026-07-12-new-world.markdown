@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Hello World!"
+date:   2026-07-12 09:01:30 +0000
+categories: blog
+---
+
+Welcome to my small blog
+
+this is my first post since i just set this up
+
+But this is my blog where i go on rants about anything..
+
+so yeah!
