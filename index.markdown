@@ -30,5 +30,5 @@ There isn't much here but here are somethings i have in store
 
 - You can see how i draw my style [here](./art-style.markdown)
 - Come and check out my OCs and their lore [here](./OCs/index.markdown)
-- Check out the links of all the socials i have here
+- Check out the links of all the socials i have [here](./socials.markdown)
 - also you can see my blogs i posted! (i post a lot of random crap)
