@@ -15,4 +15,4 @@ ranging from my true orginals to ones i made because i really liked the charater
 
 - [Timido](./timido/index.markdown)
 - [Camilla](./camilla/index.markdown)
-- Angela
+- [Angela](./angela/index.markdown)
