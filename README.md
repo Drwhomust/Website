@@ -1,17 +1,13 @@
-# Welcome to my personal website :3
+# My epic website!
 
-[![Personal Website - It's really good](https://img.shields.io/badge/Personal_Website-It's_really_good-2ea44f)](https://www.drwhomust.xyz/)
+Welcome to my epic website i made!!
 
-This is my personal website where I put stuff  do online.
+This website has everything about me and a few things of my own too!
 
-it's really cool and epic you should check it out [here](https://www.drwhomust.xyz/)
+Feel free to check it out at https://drwhomust.xyz but other than that
 
-it's cool
+this is just the source code for the website and anyone can view it and use
 
-...
+it for whatever they want under the licence! (which btw is under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)))
 
-very cool
-
-### credits
-
-[website theme](https://github.com/pages-themes/hacker)
+Anyways, thanks for reading!! >:3
