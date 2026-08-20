@@ -19,10 +19,10 @@ Heya! My name is Drwhomust (doctor-who-must) and i am a indie game developer!
 
 I make games in my free time when i am not busy with school and I am also a artist and I love to draw!
 
-I am also.. part of many and i mean **MANY** fandoms so don't be surpired if i show up in a community of something you like!
+I am also.. part of many and i mean **MANY** fandoms so don't be surprised if i show up in a community of something you like!
 
 Anyways you are here because you found this site from my socials well.. you are in good hands as this
-goo has you covererd!
+goo has you covered!
 
 ## Content on this site
 
