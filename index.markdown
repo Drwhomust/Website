@@ -11,7 +11,7 @@ layout: home
 
 # Welcome
 
-This is where i do some shenanigans
+This is my website for my shenanigans
 
 # About me
 
